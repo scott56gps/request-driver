@@ -1,0 +1,16 @@
+{
+  "name": "api-lesson-02",
+  "version": "1.0.0",
+  "description": "The second lesson of the Canvas REST API tutorial",
+  "main": "any-request.js",
+  "dependencies": {
+    "https": "^1.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Nicholes",
+  "license": "MIT"
+}
